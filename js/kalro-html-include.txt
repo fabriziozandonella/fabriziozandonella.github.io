@@ -1,0 +1,5 @@
+<!-- 1. Prima carichi la configurazione di Klaro dal tuo PC -->
+<script src="js/klaro-config.js"></script>
+
+<!-- 2. Poi carichi lo script principale di Klaro che hai scaricato, sempre in locale -->
+<script defer type="text/javascript" src="js/klaro.js"></script>
